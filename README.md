@@ -1,6 +1,6 @@
 # 🚨 Fraud Job Prediction 
 ## Overview
-This project aims to detect fraudulent job postings using advanced machine learning algorithms using a dataset from Kaggle. As online job platforms grow, so does the prevalence of scams, making it crucial to identify fake job ads. By analyzing patterns in job listings, our model utilizes techniques like XGBoost and random forests to enhance recruitment integrity.
+This project aims to detect fraudulent job postings using advanced machine learning algorithms using a dataset from Kaggle. As online job platforms grow, so does the prevalence of scams, making it crucial to identify fake job ads. By analyzing patterns in job listings, our best model (Logistic Regression) is deployed using Streamlit to enhance recruitment integrity.
 
 ## Problem Statement
 Existing fraud detection methods struggle to keep up with evolving scams, leaving job seekers vulnerable. This project addresses this issue by improving the accuracy of fraud detection through methods such as SMOTE for balancing classes and rigorous model evaluation.
